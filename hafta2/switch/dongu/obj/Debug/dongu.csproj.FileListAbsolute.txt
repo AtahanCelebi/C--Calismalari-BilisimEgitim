@@ -1,0 +1,8 @@
+C:\Users\GPc8\source\repos\switch\dongu\obj\Debug\dongu.csproj.AssemblyReference.cache
+C:\Users\GPc8\source\repos\switch\dongu\obj\Debug\dongu.csproj.SuggestedBindingRedirects.cache
+C:\Users\GPc8\source\repos\switch\dongu\obj\Debug\dongu.csproj.CoreCompileInputs.cache
+C:\Users\GPc8\source\repos\switch\dongu\bin\Debug\dongu.exe.config
+C:\Users\GPc8\source\repos\switch\dongu\bin\Debug\dongu.exe
+C:\Users\GPc8\source\repos\switch\dongu\bin\Debug\dongu.pdb
+C:\Users\GPc8\source\repos\switch\dongu\obj\Debug\dongu.exe
+C:\Users\GPc8\source\repos\switch\dongu\obj\Debug\dongu.pdb

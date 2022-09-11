@@ -1,0 +1,8 @@
+C:\Users\GPc8\source\repos\haftacozum\haftabirikinciders\bin\Debug\haftabirikinciders.exe.config
+C:\Users\GPc8\source\repos\haftacozum\haftabirikinciders\bin\Debug\haftabirikinciders.exe
+C:\Users\GPc8\source\repos\haftacozum\haftabirikinciders\bin\Debug\haftabirikinciders.pdb
+C:\Users\GPc8\source\repos\haftacozum\haftabirikinciders\obj\Debug\haftabirikinciders.csproj.AssemblyReference.cache
+C:\Users\GPc8\source\repos\haftacozum\haftabirikinciders\obj\Debug\haftabirikinciders.csproj.SuggestedBindingRedirects.cache
+C:\Users\GPc8\source\repos\haftacozum\haftabirikinciders\obj\Debug\haftabirikinciders.csproj.CoreCompileInputs.cache
+C:\Users\GPc8\source\repos\haftacozum\haftabirikinciders\obj\Debug\haftabirikinciders.exe
+C:\Users\GPc8\source\repos\haftacozum\haftabirikinciders\obj\Debug\haftabirikinciders.pdb

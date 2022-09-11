@@ -1,0 +1,8 @@
+C:\Users\GPc8\source\repos\hafta2\hafta2\bin\Debug\hafta2.exe.config
+C:\Users\GPc8\source\repos\hafta2\hafta2\bin\Debug\hafta2.exe
+C:\Users\GPc8\source\repos\hafta2\hafta2\bin\Debug\hafta2.pdb
+C:\Users\GPc8\source\repos\hafta2\hafta2\obj\Debug\hafta2.csproj.AssemblyReference.cache
+C:\Users\GPc8\source\repos\hafta2\hafta2\obj\Debug\hafta2.csproj.SuggestedBindingRedirects.cache
+C:\Users\GPc8\source\repos\hafta2\hafta2\obj\Debug\hafta2.csproj.CoreCompileInputs.cache
+C:\Users\GPc8\source\repos\hafta2\hafta2\obj\Debug\hafta2.exe
+C:\Users\GPc8\source\repos\hafta2\hafta2\obj\Debug\hafta2.pdb
