@@ -1,0 +1,8 @@
+C:\Users\GPc8\source\repos\hafta2\randomFunct\bin\Debug\randomFunct.exe.config
+C:\Users\GPc8\source\repos\hafta2\randomFunct\bin\Debug\randomFunct.exe
+C:\Users\GPc8\source\repos\hafta2\randomFunct\bin\Debug\randomFunct.pdb
+C:\Users\GPc8\source\repos\hafta2\randomFunct\obj\Debug\randomFunct.csproj.AssemblyReference.cache
+C:\Users\GPc8\source\repos\hafta2\randomFunct\obj\Debug\randomFunct.csproj.SuggestedBindingRedirects.cache
+C:\Users\GPc8\source\repos\hafta2\randomFunct\obj\Debug\randomFunct.csproj.CoreCompileInputs.cache
+C:\Users\GPc8\source\repos\hafta2\randomFunct\obj\Debug\randomFunct.exe
+C:\Users\GPc8\source\repos\hafta2\randomFunct\obj\Debug\randomFunct.pdb

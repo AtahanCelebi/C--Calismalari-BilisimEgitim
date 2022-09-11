@@ -1,0 +1,8 @@
+C:\Users\GPc8\source\repos\hafta2\methodlar\obj\Debug\methodlar.csproj.AssemblyReference.cache
+C:\Users\GPc8\source\repos\hafta2\methodlar\obj\Debug\methodlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\GPc8\source\repos\hafta2\methodlar\obj\Debug\methodlar.csproj.CoreCompileInputs.cache
+C:\Users\GPc8\source\repos\hafta2\methodlar\bin\Debug\methodlar.exe.config
+C:\Users\GPc8\source\repos\hafta2\methodlar\bin\Debug\methodlar.exe
+C:\Users\GPc8\source\repos\hafta2\methodlar\bin\Debug\methodlar.pdb
+C:\Users\GPc8\source\repos\hafta2\methodlar\obj\Debug\methodlar.exe
+C:\Users\GPc8\source\repos\hafta2\methodlar\obj\Debug\methodlar.pdb
