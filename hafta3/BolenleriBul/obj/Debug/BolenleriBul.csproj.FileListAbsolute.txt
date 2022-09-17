@@ -1,0 +1,8 @@
+C:\Users\GPc8\source\repos\hafta3\BolenleriBul\bin\Debug\BolenleriBul.exe.config
+C:\Users\GPc8\source\repos\hafta3\BolenleriBul\bin\Debug\BolenleriBul.exe
+C:\Users\GPc8\source\repos\hafta3\BolenleriBul\bin\Debug\BolenleriBul.pdb
+C:\Users\GPc8\source\repos\hafta3\BolenleriBul\obj\Debug\BolenleriBul.csproj.AssemblyReference.cache
+C:\Users\GPc8\source\repos\hafta3\BolenleriBul\obj\Debug\BolenleriBul.csproj.SuggestedBindingRedirects.cache
+C:\Users\GPc8\source\repos\hafta3\BolenleriBul\obj\Debug\BolenleriBul.csproj.CoreCompileInputs.cache
+C:\Users\GPc8\source\repos\hafta3\BolenleriBul\obj\Debug\BolenleriBul.exe
+C:\Users\GPc8\source\repos\hafta3\BolenleriBul\obj\Debug\BolenleriBul.pdb

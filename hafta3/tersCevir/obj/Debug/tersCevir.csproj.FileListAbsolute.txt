@@ -1,0 +1,8 @@
+C:\Users\GPc8\source\repos\hafta3\tersCevir\obj\Debug\tersCevir.csproj.AssemblyReference.cache
+C:\Users\GPc8\source\repos\hafta3\tersCevir\obj\Debug\tersCevir.csproj.SuggestedBindingRedirects.cache
+C:\Users\GPc8\source\repos\hafta3\tersCevir\obj\Debug\tersCevir.csproj.CoreCompileInputs.cache
+C:\Users\GPc8\source\repos\hafta3\tersCevir\bin\Debug\tersCevir.exe.config
+C:\Users\GPc8\source\repos\hafta3\tersCevir\bin\Debug\tersCevir.exe
+C:\Users\GPc8\source\repos\hafta3\tersCevir\bin\Debug\tersCevir.pdb
+C:\Users\GPc8\source\repos\hafta3\tersCevir\obj\Debug\tersCevir.exe
+C:\Users\GPc8\source\repos\hafta3\tersCevir\obj\Debug\tersCevir.pdb
