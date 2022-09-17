@@ -1,0 +1,12 @@
+C:\Users\GPc8\source\repos\hafta3\classlar\bin\Debug\classlar.exe.config
+C:\Users\GPc8\source\repos\hafta3\classlar\bin\Debug\classlar.exe
+C:\Users\GPc8\source\repos\hafta3\classlar\bin\Debug\classlar.pdb
+C:\Users\GPc8\source\repos\hafta3\classlar\obj\Debug\classlar.csproj.AssemblyReference.cache
+C:\Users\GPc8\source\repos\hafta3\classlar\obj\Debug\classlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\GPc8\source\repos\hafta3\classlar\obj\Debug\classlar.csproj.CoreCompileInputs.cache
+C:\Users\GPc8\source\repos\hafta3\classlar\obj\Debug\classlar.exe
+C:\Users\GPc8\source\repos\hafta3\classlar\obj\Debug\classlar.pdb
+C:\Users\GPc8\source\repos\hafta3\classlar\bin\Debug\kitapClass.exe
+C:\Users\GPc8\source\repos\hafta3\classlar\bin\Debug\kitapClass.pdb
+C:\Users\GPc8\source\repos\hafta3\classlar\bin\Debug\kitapClass.exe.config
+C:\Users\GPc8\source\repos\hafta3\classlar\obj\Debug\classlar.csproj.CopyComplete

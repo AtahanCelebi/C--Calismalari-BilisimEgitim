@@ -1,0 +1,12 @@
+C:\Users\GPc8\source\repos\hafta3\kitapObjesiImport\bin\Debug\kitapObjesiImport.exe.config
+C:\Users\GPc8\source\repos\hafta3\kitapObjesiImport\bin\Debug\kitapObjesiImport.exe
+C:\Users\GPc8\source\repos\hafta3\kitapObjesiImport\bin\Debug\kitapObjesiImport.pdb
+C:\Users\GPc8\source\repos\hafta3\kitapObjesiImport\bin\Debug\kitapClass.exe
+C:\Users\GPc8\source\repos\hafta3\kitapObjesiImport\bin\Debug\kitapClass.pdb
+C:\Users\GPc8\source\repos\hafta3\kitapObjesiImport\bin\Debug\kitapClass.exe.config
+C:\Users\GPc8\source\repos\hafta3\kitapObjesiImport\obj\Debug\kitapObjesiImport.csproj.AssemblyReference.cache
+C:\Users\GPc8\source\repos\hafta3\kitapObjesiImport\obj\Debug\kitapObjesiImport.csproj.SuggestedBindingRedirects.cache
+C:\Users\GPc8\source\repos\hafta3\kitapObjesiImport\obj\Debug\kitapObjesiImport.csproj.CoreCompileInputs.cache
+C:\Users\GPc8\source\repos\hafta3\kitapObjesiImport\obj\Debug\kitapObjesiImport.csproj.CopyComplete
+C:\Users\GPc8\source\repos\hafta3\kitapObjesiImport\obj\Debug\kitapObjesiImport.exe
+C:\Users\GPc8\source\repos\hafta3\kitapObjesiImport\obj\Debug\kitapObjesiImport.pdb

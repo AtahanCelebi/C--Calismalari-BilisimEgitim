@@ -1,0 +1,8 @@
+C:\Users\GPc8\source\repos\hafta3\kitapClass\bin\Debug\kitapClass.exe.config
+C:\Users\GPc8\source\repos\hafta3\kitapClass\bin\Debug\kitapClass.exe
+C:\Users\GPc8\source\repos\hafta3\kitapClass\bin\Debug\kitapClass.pdb
+C:\Users\GPc8\source\repos\hafta3\kitapClass\obj\Debug\kitapClass.csproj.AssemblyReference.cache
+C:\Users\GPc8\source\repos\hafta3\kitapClass\obj\Debug\kitapClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\GPc8\source\repos\hafta3\kitapClass\obj\Debug\kitapClass.csproj.CoreCompileInputs.cache
+C:\Users\GPc8\source\repos\hafta3\kitapClass\obj\Debug\kitapClass.exe
+C:\Users\GPc8\source\repos\hafta3\kitapClass\obj\Debug\kitapClass.pdb
