@@ -52,8 +52,8 @@ namespace interfaceCalismasi
                         Console.Write("z degeri:");
                         z = double.Parse(Console.ReadLine());
 
-                        Console.WriteLine("Üçgenin alanı:{0}",triangle.Alan(new Triangle() { x = x, y = y, z = z }));
-                        Console.WriteLine("Üçgenin çevresi:{0}",triangle.Cevre(new Triangle() { x = x, y = y, z = z }));
+                        Console.WriteLine("Üçgenin alanı:{0}",triangle.Alan(new Triangle() { x = x, y = y, z = z }));  //ilki class değeri x=x
+                        Console.WriteLine("Üçgenin çevresi:{0}",triangle.Cevre(new Triangle() { x = x, y = y, z = z })); //ikincisi buradaki tanımlı x
 
                         break;
                     }
@@ -64,8 +64,8 @@ namespace interfaceCalismasi
                         Console.Write("y degeri:");
                         y = double.Parse(Console.ReadLine());
 
-                        Console.WriteLine("Dikdörtgenin Alanı {0}", rectangle.Alan(new Rectangle() { x = x, y = y }));
-                        Console.WriteLine("Dikdörtgenin Çevresi {0}", rectangle.Cevre(new Rectangle() { x = x, y = y }));
+                        Console.WriteLine("Dikdörtgenin Alanı {0}", rectangle.Alan(new Rectangle() { x = x, y = y })); //ilki class değeri
+                        Console.WriteLine("Dikdörtgenin Çevresi {0}", rectangle.Cevre(new Rectangle() { x = x, y = y })); //ikincisi buradaki tanımlı
 
 
                         break;
