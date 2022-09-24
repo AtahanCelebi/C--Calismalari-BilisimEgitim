@@ -1,0 +1,8 @@
+C:\Users\BEM-A\source\repos\hafta4\classYapisi\bin\Debug\classYapisi.exe.config
+C:\Users\BEM-A\source\repos\hafta4\classYapisi\bin\Debug\classYapisi.exe
+C:\Users\BEM-A\source\repos\hafta4\classYapisi\bin\Debug\classYapisi.pdb
+C:\Users\BEM-A\source\repos\hafta4\classYapisi\obj\Debug\classYapisi.csproj.AssemblyReference.cache
+C:\Users\BEM-A\source\repos\hafta4\classYapisi\obj\Debug\classYapisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\BEM-A\source\repos\hafta4\classYapisi\obj\Debug\classYapisi.csproj.CoreCompileInputs.cache
+C:\Users\BEM-A\source\repos\hafta4\classYapisi\obj\Debug\classYapisi.exe
+C:\Users\BEM-A\source\repos\hafta4\classYapisi\obj\Debug\classYapisi.pdb
