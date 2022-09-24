@@ -6,6 +6,11 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace classYapisi
+/*
+ * constructor hep classda yapıcı olarak bulunur, tanımlamasak bile
+ sealed class > kalıtım yapılamamasını istiyorsak
+abstract class > soyutlamak için kullanılır
+ */
 {
     internal class Program
     {
@@ -47,15 +52,19 @@ namespace classYapisi
                         adet = siparisAdeti
                     };
                     siparisler.Add(spr);
-                    gelenKitap.adet -= siparisAdeti;
-                    Console.WriteLine($"${gelenKitap.KitapAdı} Kalan Adet: {gelenKitap.adet}  Sipariş Edilen Miktar: {siparisAdeti}");
+                    gelenKitap.adet -= siparisAdeti;  //gelen siparişten stok adetini düş
+                    Console.WriteLine("-------------------------------------------------------------------------------");
+                    Console.WriteLine($"Kitap Adı: {gelenKitap.KitapAdı} Kalan Adet: {gelenKitap.adet} adet Sipariş Edilen Miktar: {siparisAdeti} Ücret: {gelenKitap.fiyat*siparisAdeti}TL");
+                    Console.WriteLine("-------------------------------------------------------------------------------");
+
                 }
                 else
                 {
 
-                    Console.WriteLine("-----");
+                    Console.WriteLine("---------------");
                     Console.WriteLine("Stok Yetersiz!!!");
-                    Console.WriteLine("-----");
+                    Console.WriteLine("---------------");
+
                 }
 
             }
@@ -71,7 +80,7 @@ namespace classYapisi
             foreach(var kitap in kitaplik)
             {
                 Console.WriteLine("-----------------------------------------------------------------------------");
-                Console.WriteLine($"Kitap Adı: {kitap.KitapAdı}\tKitap Id: {kitap.kitapId}\tKitabın Fiyatı: {kitap.fiyat}\tKitap Adeti: {kitap.adet}");
+                Console.WriteLine($"Kitap Adı: {kitap.KitapAdı}\tKitap Id: {kitap.kitapId}\tKitabın Fiyatı: {kitap.fiyat}\tKitap Adeti: {kitap.adet} adet");
                 Console.WriteLine("-----------------------------------------------------------------------------");
 
             }

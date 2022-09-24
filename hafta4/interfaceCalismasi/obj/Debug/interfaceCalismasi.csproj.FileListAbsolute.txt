@@ -1,0 +1,8 @@
+C:\Users\BEM-A\source\repos\hafta4\interfaceCalismasi\bin\Debug\interfaceCalismasi.exe.config
+C:\Users\BEM-A\source\repos\hafta4\interfaceCalismasi\bin\Debug\interfaceCalismasi.exe
+C:\Users\BEM-A\source\repos\hafta4\interfaceCalismasi\bin\Debug\interfaceCalismasi.pdb
+C:\Users\BEM-A\source\repos\hafta4\interfaceCalismasi\obj\Debug\interfaceCalismasi.csproj.AssemblyReference.cache
+C:\Users\BEM-A\source\repos\hafta4\interfaceCalismasi\obj\Debug\interfaceCalismasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\BEM-A\source\repos\hafta4\interfaceCalismasi\obj\Debug\interfaceCalismasi.csproj.CoreCompileInputs.cache
+C:\Users\BEM-A\source\repos\hafta4\interfaceCalismasi\obj\Debug\interfaceCalismasi.exe
+C:\Users\BEM-A\source\repos\hafta4\interfaceCalismasi\obj\Debug\interfaceCalismasi.pdb
