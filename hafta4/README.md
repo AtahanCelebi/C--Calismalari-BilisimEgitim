@@ -1,0 +1,1 @@
+formUygulama dosyasında  `personCalisma` dosyasındaki interface kullanıldı.
