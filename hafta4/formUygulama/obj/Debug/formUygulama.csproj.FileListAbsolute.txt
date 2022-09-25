@@ -1,0 +1,13 @@
+C:\Users\BEM-A\source\repos\hafta4\formUygulama\bin\Debug\formUygulama.exe.config
+C:\Users\BEM-A\source\repos\hafta4\formUygulama\bin\Debug\formUygulama.exe
+C:\Users\BEM-A\source\repos\hafta4\formUygulama\bin\Debug\formUygulama.pdb
+C:\Users\BEM-A\source\repos\hafta4\formUygulama\obj\Debug\formUygulama.csproj.AssemblyReference.cache
+C:\Users\BEM-A\source\repos\hafta4\formUygulama\obj\Debug\formUygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\BEM-A\source\repos\hafta4\formUygulama\obj\Debug\formUygulama.Form1.resources
+C:\Users\BEM-A\source\repos\hafta4\formUygulama\obj\Debug\formUygulama.Properties.Resources.resources
+C:\Users\BEM-A\source\repos\hafta4\formUygulama\obj\Debug\formUygulama.csproj.GenerateResource.cache
+C:\Users\BEM-A\source\repos\hafta4\formUygulama\obj\Debug\formUygulama.csproj.CoreCompileInputs.cache
+C:\Users\BEM-A\source\repos\hafta4\formUygulama\obj\Debug\formUygulama.exe
+C:\Users\BEM-A\source\repos\hafta4\formUygulama\obj\Debug\formUygulama.pdb
+C:\Users\BEM-A\source\repos\hafta4\formUygulama\obj\Debug\formUygulama.studentForm.resources
+C:\Users\BEM-A\source\repos\hafta4\formUygulama\obj\Debug\formUygulama.teacherForm.resources
