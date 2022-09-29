@@ -1,0 +1,13 @@
+C:\Users\ataha\source\repos\araclarInterface\bin\Debug\araclarInterface.exe.config
+C:\Users\ataha\source\repos\araclarInterface\bin\Debug\araclarInterface.exe
+C:\Users\ataha\source\repos\araclarInterface\bin\Debug\araclarInterface.pdb
+C:\Users\ataha\source\repos\araclarInterface\obj\Debug\araclarInterface.csproj.AssemblyReference.cache
+C:\Users\ataha\source\repos\araclarInterface\obj\Debug\araclarInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\ataha\source\repos\araclarInterface\obj\Debug\araclarInterface.Properties.Resources.resources
+C:\Users\ataha\source\repos\araclarInterface\obj\Debug\araclarInterface.csproj.GenerateResource.cache
+C:\Users\ataha\source\repos\araclarInterface\obj\Debug\araclarInterface.csproj.CoreCompileInputs.cache
+C:\Users\ataha\source\repos\araclarInterface\obj\Debug\araclarInterface.exe
+C:\Users\ataha\source\repos\araclarInterface\obj\Debug\araclarInterface.pdb
+C:\Users\ataha\source\repos\araclarInterface\obj\Debug\araclarInterface.Form1.resources
+C:\Users\ataha\source\repos\araclarInterface\obj\Debug\araclarInterface.otomobilForm.resources
+C:\Users\ataha\source\repos\araclarInterface\obj\Debug\araclarInterface.motosikletForm.resources
