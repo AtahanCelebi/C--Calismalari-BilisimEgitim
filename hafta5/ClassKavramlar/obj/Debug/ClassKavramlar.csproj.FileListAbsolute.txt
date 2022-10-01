@@ -1,0 +1,13 @@
+C:\Users\BEM-A\source\repos\MCSD741.008\5Hafta1gun\ClassKavramlar\bin\Debug\ClassKavramlar.exe.config
+C:\Users\BEM-A\source\repos\MCSD741.008\5Hafta1gun\ClassKavramlar\bin\Debug\ClassKavramlar.exe
+C:\Users\BEM-A\source\repos\MCSD741.008\5Hafta1gun\ClassKavramlar\bin\Debug\ClassKavramlar.pdb
+C:\Users\BEM-A\source\repos\MCSD741.008\5Hafta1gun\ClassKavramlar\obj\Debug\ClassKavramlar.csproj.AssemblyReference.cache
+C:\Users\BEM-A\source\repos\MCSD741.008\5Hafta1gun\ClassKavramlar\obj\Debug\ClassKavramlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\BEM-A\source\repos\MCSD741.008\5Hafta1gun\ClassKavramlar\obj\Debug\ClassKavramlar.Form1.resources
+C:\Users\BEM-A\source\repos\MCSD741.008\5Hafta1gun\ClassKavramlar\obj\Debug\ClassKavramlar.FormKategori.resources
+C:\Users\BEM-A\source\repos\MCSD741.008\5Hafta1gun\ClassKavramlar\obj\Debug\ClassKavramlar.FormProduct.resources
+C:\Users\BEM-A\source\repos\MCSD741.008\5Hafta1gun\ClassKavramlar\obj\Debug\ClassKavramlar.Properties.Resources.resources
+C:\Users\BEM-A\source\repos\MCSD741.008\5Hafta1gun\ClassKavramlar\obj\Debug\ClassKavramlar.csproj.GenerateResource.cache
+C:\Users\BEM-A\source\repos\MCSD741.008\5Hafta1gun\ClassKavramlar\obj\Debug\ClassKavramlar.csproj.CoreCompileInputs.cache
+C:\Users\BEM-A\source\repos\MCSD741.008\5Hafta1gun\ClassKavramlar\obj\Debug\ClassKavramlar.exe
+C:\Users\BEM-A\source\repos\MCSD741.008\5Hafta1gun\ClassKavramlar\obj\Debug\ClassKavramlar.pdb
