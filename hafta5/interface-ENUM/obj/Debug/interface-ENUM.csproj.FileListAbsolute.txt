@@ -1,0 +1,11 @@
+C:\Users\BEM-A\source\repos\hafta5\interface-ENUM\bin\Debug\interface-ENUM.exe.config
+C:\Users\BEM-A\source\repos\hafta5\interface-ENUM\bin\Debug\interface-ENUM.exe
+C:\Users\BEM-A\source\repos\hafta5\interface-ENUM\bin\Debug\interface-ENUM.pdb
+C:\Users\BEM-A\source\repos\hafta5\interface-ENUM\obj\Debug\interface-ENUM.csproj.AssemblyReference.cache
+C:\Users\BEM-A\source\repos\hafta5\interface-ENUM\obj\Debug\interface-ENUM.csproj.SuggestedBindingRedirects.cache
+C:\Users\BEM-A\source\repos\hafta5\interface-ENUM\obj\Debug\interface_ENUM.Form1.resources
+C:\Users\BEM-A\source\repos\hafta5\interface-ENUM\obj\Debug\interface_ENUM.Properties.Resources.resources
+C:\Users\BEM-A\source\repos\hafta5\interface-ENUM\obj\Debug\interface-ENUM.csproj.GenerateResource.cache
+C:\Users\BEM-A\source\repos\hafta5\interface-ENUM\obj\Debug\interface-ENUM.csproj.CoreCompileInputs.cache
+C:\Users\BEM-A\source\repos\hafta5\interface-ENUM\obj\Debug\interface-ENUM.exe
+C:\Users\BEM-A\source\repos\hafta5\interface-ENUM\obj\Debug\interface-ENUM.pdb
