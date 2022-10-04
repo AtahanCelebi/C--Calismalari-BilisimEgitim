@@ -1,0 +1,11 @@
+C:\Users\ataha\source\repos\calculator\bin\Debug\calculator.exe.config
+C:\Users\ataha\source\repos\calculator\bin\Debug\calculator.exe
+C:\Users\ataha\source\repos\calculator\bin\Debug\calculator.pdb
+C:\Users\ataha\source\repos\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\ataha\source\repos\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ataha\source\repos\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\ataha\source\repos\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\ataha\source\repos\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\ataha\source\repos\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\ataha\source\repos\calculator\obj\Debug\calculator.exe
+C:\Users\ataha\source\repos\calculator\obj\Debug\calculator.pdb
