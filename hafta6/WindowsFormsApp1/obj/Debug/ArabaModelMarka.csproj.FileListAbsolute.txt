@@ -1,0 +1,11 @@
+C:\Users\BEM-A\source\repos\hafta6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\BEM-A\source\repos\hafta6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\BEM-A\source\repos\hafta6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\BEM-A\source\repos\hafta6\WindowsFormsApp1\obj\Debug\ArabaModelMarka.csproj.AssemblyReference.cache
+C:\Users\BEM-A\source\repos\hafta6\WindowsFormsApp1\obj\Debug\ArabaModelMarka.csproj.SuggestedBindingRedirects.cache
+C:\Users\BEM-A\source\repos\hafta6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\BEM-A\source\repos\hafta6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\BEM-A\source\repos\hafta6\WindowsFormsApp1\obj\Debug\ArabaModelMarka.csproj.GenerateResource.cache
+C:\Users\BEM-A\source\repos\hafta6\WindowsFormsApp1\obj\Debug\ArabaModelMarka.csproj.CoreCompileInputs.cache
+C:\Users\BEM-A\source\repos\hafta6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\BEM-A\source\repos\hafta6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
