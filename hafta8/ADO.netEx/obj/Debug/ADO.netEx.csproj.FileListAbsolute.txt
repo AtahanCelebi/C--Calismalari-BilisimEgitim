@@ -1,0 +1,26 @@
+C:\Users\BEM-A\source\repos\MCSD741.008\VeritabanıÖrnek\ADO.netEx\bin\Debug\ADO.netEx.exe.config
+C:\Users\BEM-A\source\repos\MCSD741.008\VeritabanıÖrnek\ADO.netEx\bin\Debug\ADO.netEx.exe
+C:\Users\BEM-A\source\repos\MCSD741.008\VeritabanıÖrnek\ADO.netEx\bin\Debug\ADO.netEx.pdb
+C:\Users\BEM-A\source\repos\MCSD741.008\VeritabanıÖrnek\ADO.netEx\obj\Debug\ADO.netEx.csproj.AssemblyReference.cache
+C:\Users\BEM-A\source\repos\MCSD741.008\VeritabanıÖrnek\ADO.netEx\obj\Debug\ADO.netEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\BEM-A\source\repos\MCSD741.008\VeritabanıÖrnek\ADO.netEx\obj\Debug\ADO.netEx.Form1.resources
+C:\Users\BEM-A\source\repos\MCSD741.008\VeritabanıÖrnek\ADO.netEx\obj\Debug\ADO.netEx.frmCategory.resources
+C:\Users\BEM-A\source\repos\MCSD741.008\VeritabanıÖrnek\ADO.netEx\obj\Debug\ADO.netEx.Properties.Resources.resources
+C:\Users\BEM-A\source\repos\MCSD741.008\VeritabanıÖrnek\ADO.netEx\obj\Debug\ADO.netEx.csproj.GenerateResource.cache
+C:\Users\BEM-A\source\repos\MCSD741.008\VeritabanıÖrnek\ADO.netEx\obj\Debug\ADO.netEx.csproj.CoreCompileInputs.cache
+C:\Users\BEM-A\source\repos\MCSD741.008\VeritabanıÖrnek\ADO.netEx\obj\Debug\ADO.netEx.exe
+C:\Users\BEM-A\source\repos\MCSD741.008\VeritabanıÖrnek\ADO.netEx\obj\Debug\ADO.netEx.pdb
+C:\Users\BEM-A\source\repos\hafta 7-8\ADO.netEx\bin\Debug\ADO.netEx.exe.config
+C:\Users\BEM-A\source\repos\hafta 7-8\ADO.netEx\bin\Debug\ADO.netEx.exe
+C:\Users\BEM-A\source\repos\hafta 7-8\ADO.netEx\bin\Debug\ADO.netEx.pdb
+C:\Users\BEM-A\source\repos\hafta 7-8\ADO.netEx\obj\Debug\ADO.netEx.csproj.AssemblyReference.cache
+C:\Users\BEM-A\source\repos\hafta 7-8\ADO.netEx\obj\Debug\ADO.netEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\BEM-A\source\repos\hafta 7-8\ADO.netEx\obj\Debug\ADO.netEx.brandForm.resources
+C:\Users\BEM-A\source\repos\hafta 7-8\ADO.netEx\obj\Debug\ADO.netEx.Form1.resources
+C:\Users\BEM-A\source\repos\hafta 7-8\ADO.netEx\obj\Debug\ADO.netEx.frmCategory.resources
+C:\Users\BEM-A\source\repos\hafta 7-8\ADO.netEx\obj\Debug\ADO.netEx.Properties.Resources.resources
+C:\Users\BEM-A\source\repos\hafta 7-8\ADO.netEx\obj\Debug\ADO.netEx.csproj.GenerateResource.cache
+C:\Users\BEM-A\source\repos\hafta 7-8\ADO.netEx\obj\Debug\ADO.netEx.csproj.CoreCompileInputs.cache
+C:\Users\BEM-A\source\repos\hafta 7-8\ADO.netEx\obj\Debug\ADO.netEx.exe
+C:\Users\BEM-A\source\repos\hafta 7-8\ADO.netEx\obj\Debug\ADO.netEx.pdb
+C:\Users\BEM-A\source\repos\hafta 7-8\ADO.netEx\obj\Debug\ADO.netEx.productForm.resources
