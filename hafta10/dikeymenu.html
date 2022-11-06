@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    ul{
+        list-style-type: none;
+    }
+    .menu>ul{
+        width: 20%;
+        height: 300px;
+        background-color: chocolate;
+    }
+    .menu>ul>li{
+        text-align: center;
+        padding: 20px;
+        border: 1px solid black;
+        position: relative;
+    }
+
+    .menu>ul>li:hover{
+        color: green;
+    }
+
+    .menu>ul>li:hover ul{
+        display: block;
+    }
+    
+    .liClass{
+        display: block;
+        color: red;
+        font-family: monospace;
+    }
+
+    .menu>ul>li>ul{
+        display: none;
+        position: absolute;
+        top:0;
+        left:60px;
+    }
+   
+
+    .liClass>li:hover{
+        color: black;
+    }
+    
+    
+</style>
+<body>
+    <ul class="menu">
+        <ul>
+            <li>Anasayfa.</li>
+            <li>Ürünler
+            <ul class="liClass">
+                <li>Lorem.</li>
+                <li>Magni?</li>
+                <li>Alias?</li>
+            </ul>
+        </li>
+
+            <li>İletişim</li>
+            <li>Hakkımızda</li>
+        </ul>
+    </ul>
+</body>
+</html>

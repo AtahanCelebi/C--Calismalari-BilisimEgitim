@@ -1,0 +1,63 @@
+*{
+    font: 20px monospace;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+ul#sliderNo, ul#slider-list{
+    list-style: none;
+    clear: both;
+}
+
+.slider{
+    width: 600px;
+    height: 400px;
+    background: #ffd;
+    position: relative;
+}
+
+#sliderNo, #slider-list{
+    padding: 20px;
+}
+
+#sliderNo li{
+    width: 15px;
+    height: 15px;
+    background-color: crimson;
+    color: white;
+    margin: 2px;
+    padding: 2px;
+    float: left;
+    cursor:crosshair;
+}
+
+#slider-list li{
+    width: 100%;
+    background-color: crimson;
+    float: left;
+    overflow: hidden;
+    /*display: none; sonra display block olucak*/
+}
+
+#slider-list li img{
+    width: 100%;
+    max-height: 315px;
+}
+
+.prev, .next{
+    width: 40px;
+    height: 40px;
+    background: whitesmoke;
+    position: absolute;
+    top:40%;
+    border-radius: 100%; /*%100 ise radiues tamamen yuvarlak olur*/
+    text-align: center;
+    color: white;
+}
+
+.prev{
+    left: 50px;
+}
+.next{
+    right: 40px;
+}

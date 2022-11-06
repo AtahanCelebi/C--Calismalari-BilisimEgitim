@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+body{
+    font-size: large;
+    font-family: monospace;
+    font-weight: bold;
+    color: white;
+}
+
+.formBody{
+    border: 1px solid black;
+    padding-bottom: 10px;
+    padding-top: 10px
+}
+
+
+.kullaniciAdi{
+    margin-right: 40px;
+}
+.parola{
+    margin-left: 20px;
+}
+
+.formHeader{
+    text-align: center;
+    background-color: brown;
+}
+
+.form{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+input[type="submit"]{
+    color: green;
+    font-weight: bold;
+}
+
+input:hover{
+    border: 2px;
+    background-color:burlywood;
+}
+
+
+
+
+</style>
+<body>
+    <div class="form">
+        <div class="formHeader">
+            <h2 style="background-color:yellow; color:black">Kullanıcı Giriş</h2>
+            <p class="uyelik"><a href="yeniUyelik.html">Yeni Üyelik</a></p>
+            <div class="formBody">
+                <div class="kullaniciAdi">
+                    <label>Kullanıcı Adı:</label>
+                    <input type="text" id="userName">
+                </div>
+                <br>
+                <div class="parola">
+                    <label>Parola:</label>
+                    <input type="password" id="password">
+                </div>
+                <div class="button">
+                    <input type="checkbox">
+                    <input type="submit" id="giris" style="float: right;margin-right:10px">
+                </div>
+            </div>
+        </div>
+    </div>
+
+<script>
+document.querySelector('#giris').addEventListener('click',function(){
+    let userName = document.querySelector('#userName').value;
+    let password = document.querySelector('#password').value;
+    alert("Kullanıcı Adı: "+userName+'\nParola: '+password)
+    location.reload();
+})
+
+</script>
+
+
+
+
+
+
+
+</body>
+</html>
